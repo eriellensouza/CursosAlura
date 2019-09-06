@@ -8,24 +8,13 @@ namespace ByteBankImportacaoExportacao
     { 
         static void Main(string[] args)
         {
-            var caminhoArquivo = "contas.txt";
+            CriarArquivo();
 
-            using (var fluxoDeArquivo = new FileStream(caminhoArquivo, FileMode.Open))
-            using (var leitor = new StreamReader(fluxoDeArquivo, Encoding.Default))
+            if (ArquivoCriado())
             {
-                while (!leitor.EndOfStream)
-                {
-                    var linha = leitor.ReadLine();
-
-                    var contaCorrente = ConverterStringParaContaCorrente(linha);
-                    Console.WriteLine($"O número da conta: {contaCorrente.Numero}\n"+
-                                      $"Agência: {contaCorrente.Agencia}\n" +
-                                      $"Nome Tiular: {contaCorrente.Titular.Nome}\n" +
-                                      $"Saldo da conta: {contaCorrente.Saldo}\n\n\n");
-                    //Console.WriteLine(linha);
-                }
-            }           
-
+                Console.WriteLine("Arquivo criado com sucesso!!");
+            }
+            
             Console.ReadLine();
         }       
     }    

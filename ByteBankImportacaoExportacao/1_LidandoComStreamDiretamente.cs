@@ -41,23 +41,25 @@ namespace ByteBankImportacaoExportacao
 
         static ContaCorrente ConverterStringParaContaCorrente(string linha)
         {
-            var campos = linha.Split(',');
+            var campos = linha.Split(';');
 
             var agencia = Convert.ToInt32(campos[0]);
 
             var numero = Convert.ToInt32(campos[1]);
 
-            var saldo = Convert.ToDouble(campos[2]);
+            var saldo = Convert.ToDouble(campos[2].Replace(".",","));
 
             var nomeTitular = campos[3];
 
-            var titular = new Cliente();
+            var titular = new Cliente
+            {
+                Nome = nomeTitular
+            };
 
-            titular.Nome = nomeTitular;
-
-            var resultado = new ContaCorrente(agencia, numero);
-
-            resultado.Titular = titular;
+            var resultado = new ContaCorrente(agencia, numero)
+            {
+                Titular = titular
+            };
 
             resultado.Depositar(saldo);
 
