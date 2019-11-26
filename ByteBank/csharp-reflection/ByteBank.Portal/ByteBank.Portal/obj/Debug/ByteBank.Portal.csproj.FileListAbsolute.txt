@@ -1,0 +1,7 @@
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe.config
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.exe
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\bin\Debug\ByteBank.Portal.pdb
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csprojAssemblyReference.cache
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.csproj.CoreCompileInputs.cache
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.exe
+C:\Users\BSI98642\Documents\Alura\ByteBank\csharp-reflection\ByteBank.Portal\ByteBank.Portal\obj\Debug\ByteBank.Portal.pdb
