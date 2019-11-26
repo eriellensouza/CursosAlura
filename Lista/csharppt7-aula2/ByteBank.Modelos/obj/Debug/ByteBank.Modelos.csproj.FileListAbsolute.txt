@@ -1,0 +1,7 @@
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\BSI98642\Documents\Alura\Lista\csharppt7-aula2\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
