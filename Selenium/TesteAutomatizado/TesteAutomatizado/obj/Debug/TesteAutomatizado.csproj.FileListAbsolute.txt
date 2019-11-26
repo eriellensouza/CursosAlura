@@ -1,0 +1,23 @@
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.pdb
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\nunit.framework.dll
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.dll
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.Support.dll
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\nunit.framework.xml
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.xml
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.Support.xml
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.pdb
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.csprojResolveAssemblyReference.cache
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.dll.config
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.dll
+C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.dll
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.dll.config
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.dll
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.pdb
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.dll
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.Support.dll
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.xml
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\bin\Debug\WebDriver.Support.xml
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.csproj.CoreCompileInputs.cache
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.csproj.CopyComplete
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.dll
+C:\Users\BSI98642\Documents\Alura\Selenium\TesteAutomatizado\TesteAutomatizado\obj\Debug\TesteAutomatizado.pdb

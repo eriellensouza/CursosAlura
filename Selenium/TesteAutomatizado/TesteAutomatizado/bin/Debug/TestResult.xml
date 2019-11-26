@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-02-26" time="09:48:05">
+  <environment nunit-version="2.7.0.0" clr-version="2.0.50727.8798" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files\NUnit 2.7.0\bin" machine-name="MMQ003500" user="eriellen.souza" user-domain="MQ" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite type="Assembly" name="C:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\bin\Debug\TesteAutomatizado.dll" executed="True" result="Failure" success="False" time="29.293" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TesteAutomatizado" executed="True" result="Failure" success="False" time="29.199" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="testes" executed="True" result="Failure" success="False" time="29.199" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="UsuariosSystemTest" executed="True" result="Failure" success="False" time="29.188" asserts="0">
+                <results>
+                  <test-case name="TesteAutomatizado.testes.UsuariosSystemTest.ExcluirUsuario" executed="True" result="Error" success="False" time="19.246" asserts="0">
+                    <failure>
+                      <message><![CDATA[System.ArgumentOutOfRangeException : O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: index]]></message>
+                      <stack-trace><![CDATA[em System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+em System.Collections.Generic.List`1.get_Item(Int32 index)
+em System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+em TesteAutomatizado.pages.NovoUsuarioPage.Exclui(Int32 posicao) na c:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\pages\NovoUsuarioPage.cs:linha 32
+em TesteAutomatizado.testes.UsuariosSystemTest.ExcluirUsuario() na c:\Users\eriellen.souza\Documents\Visual Studio 2013\Projects\TesteAutomatizado\TesteAutomatizado\testes\UsuariosSystemTest.cs:linha 78
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
