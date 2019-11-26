@@ -1,0 +1,7 @@
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\BSI98642\Documents\Alura\IO_Stream\IO_Stream\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
